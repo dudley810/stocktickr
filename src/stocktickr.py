@@ -10,7 +10,7 @@ font = pygame.font.SysFont("Courier", 36)
 clock = pygame.time.Clock()
 
 # Define stock symbols
-symbols = ['AAPL','AMZN','AVGO', 'ADC','MO','JPM','TSLA', 'GOOGL', 'MSFT','NVDA','TSM']
+symbols = ['AAPL','AMZN','AVGO', 'ADC','BTG','MO','JPM','TSLA', 'GOOGL', 'MSFT','NVDA','TSM']
 
 def get_prices(symbols):
     prices = []
