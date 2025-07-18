@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockTickr.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3496740993a2a4c4d6d9bb1e3863d1aeb69be3e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bf4adf2d970da861315bbcd40853dd0f369a507")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockTickr.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockTickr.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
