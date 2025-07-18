@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a7zlIEvkkM+Wheok9Cm0tVNzFHNC5GZmnYiYHCnRYD0=",
+  "Source": "StockTickr.Api",
+  "BasePath": "_content/StockTickr.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
